@@ -1,0 +1,1 @@
+python train.py --dataset mnist --gan_type gan --epoch 50 --batch_size 64
